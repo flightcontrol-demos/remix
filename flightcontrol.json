@@ -59,7 +59,7 @@
       "id": "remix"
     },
     {
-      "name": "Remix Demo",
+      "name": "Remix with invalid config",
       "region": "us-east-1",
       "source": {
         "pr": false,
@@ -68,7 +68,7 @@
       },
       "services": [
         {
-          "id": "remix-app",
+          "id": "remix-app-123",
           "name": "Remix App",
           "buildType": "nixpacks",
           "cpu": 0.25,
